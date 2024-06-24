@@ -12,7 +12,7 @@
             "console": "integratedTerminal",
             "args": [
                 "--random_seed", "42",
-                "--is_training", "0",
+                "--is_training", "1",
                 "--root_path", "./dataset/",
                 "--data_path", "ETTh1.csv",
                 "--model_id", "ETTh1_96_96",
